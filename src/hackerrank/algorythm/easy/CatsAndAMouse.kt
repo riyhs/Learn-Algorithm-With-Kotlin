@@ -14,6 +14,9 @@ fun catAndMouse(x: Int, y: Int, z: Int): String {
     }
 }
 
+// Link Problem
+// https://www.hackerrank.com/challenges/cats-and-a-mouse
+
 fun main(args: Array<String>) {
     val scan = Scanner(System.`in`)
 

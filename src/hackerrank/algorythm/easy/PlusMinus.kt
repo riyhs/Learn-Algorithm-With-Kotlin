@@ -36,6 +36,9 @@ fun plusMinus(arr: Array<Int>): Unit {
     println(nZero.toFloat() / arr.size.toFloat())
 }
 
+// Link Problem
+// https://www.hackerrank.com/challenges/plus-minus
+
 fun main(args: Array<String>) {
     val scan = Scanner(System.`in`)
 

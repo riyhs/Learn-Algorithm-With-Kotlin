@@ -36,6 +36,8 @@ fun commonChild(s1: String, s2: String): Int {
     return commonChild.size
 }
 
+// NOT SOLVED YET
+
 fun main(args: Array<String>) {
     val scan = Scanner(System.`in`)
 

@@ -40,6 +40,9 @@ fun countApplesAndOranges(s: Int, t: Int, a: Int, b: Int, apples: Array<Int>, or
     println(NB)
 }
 
+// Link Problem
+// https://www.hackerrank.com/challenges/apple-and-orange
+
 fun main(args: Array<String>) {
     val scan = Scanner(System.`in`)
 

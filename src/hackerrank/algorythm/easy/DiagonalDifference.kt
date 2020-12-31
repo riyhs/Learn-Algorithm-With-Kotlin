@@ -35,6 +35,9 @@ fun diagonalDifference(arr: Array<Array<Int>>): Int {
     return abs(a-b)
 }
 
+// Link Problem
+// https://www.hackerrank.com/challenges/diagonal-difference
+
 fun main(args: Array<String>) {
     val n = readLine()!!.trim().toInt()
 

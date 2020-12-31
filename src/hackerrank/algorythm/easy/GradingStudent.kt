@@ -42,6 +42,9 @@ fun gradingStudents(grades: Array<Int>): Array<Int> {
     return result.toTypedArray()
 }
 
+// Link Problem
+// https://www.hackerrank.com/challenges/grading
+
 fun main(args: Array<String>) {
     val gradesCount = readLine()!!.trim().toInt()
 

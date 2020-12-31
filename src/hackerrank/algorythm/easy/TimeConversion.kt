@@ -19,6 +19,9 @@ fun timeConversion(s: String): String {
     return format.format(date)
 }
 
+// Link Problem
+// https://www.hackerrank.com/challenges/time-conversion
+
 fun main(args: Array<String>) {
     val scan = Scanner(System.`in`)
 

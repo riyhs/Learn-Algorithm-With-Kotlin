@@ -40,6 +40,9 @@ fun kangaroo(x1: Int, v1: Int, x2: Int, v2: Int): String {
     return isMeet
 }
 
+// Link Problem
+// https://www.hackerrank.com/challenges/kangaroo
+
 fun main(args: Array<String>) {
     val scan = Scanner(System.`in`)
 

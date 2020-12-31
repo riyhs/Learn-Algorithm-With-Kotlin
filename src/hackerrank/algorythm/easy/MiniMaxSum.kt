@@ -37,6 +37,9 @@ fun miniMaxSum(arr: Array<Long>): Unit {
     println("${min - sortedArr[sortedArr.size-1]} ${max - sortedArr[0]}")
 }
 
+// Link Problem
+// https://www.hackerrank.com/challenges/mini-max-sum
+
 fun main(args: Array<String>) {
     val scan = Scanner(System.`in`)
 
