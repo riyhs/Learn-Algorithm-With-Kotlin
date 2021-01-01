@@ -37,6 +37,8 @@ fun commonChild(s1: String, s2: String): Int {
 }
 
 // NOT SOLVED YET
+// Link Problem
+// https://www.hackerrank.com/challenges/common-child/problem
 
 fun main(args: Array<String>) {
     val scan = Scanner(System.`in`)
