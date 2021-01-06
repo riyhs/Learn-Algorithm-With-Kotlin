@@ -14,6 +14,9 @@ fun angryProfessor(k: Int, att: Array<Int>): String {
     return if (n >= k) "NO" else "YES"
 }
 
+// Link Problem
+// https://www.hackerrank.com/challenges/angry-professor/problem
+
 fun main(args: Array<String>) {
     val scan = Scanner(System.`in`)
 
